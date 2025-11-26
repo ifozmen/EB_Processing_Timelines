@@ -1,6 +1,4 @@
-# EB_Processing_Timelines
-
-# 🇺🇸 EB Visa Priority Date Predictor
+# US EB Visa Priority Date Predictor
 
 A simple, powerful tool to predict when your Employment-Based (EB) visa priority date will become current.
 
