@@ -5,7 +5,8 @@ A simple, powerful tool to predict when your Employment-Based (EB) visa priority
 ## ⚡ Quick Start (No Installation!)
 
 ### Google Colab (Recommended for Non-Programmers)
-1. Click: [**Open in Google Colab**](https://colab.research.google.com/github/YOUR_USERNAME/eb-visa-predictor/blob/main/notebooks/EB_Predictor.ipynb)
+
+1. Click: [**Open in Google Colab**]
 2. Click **Runtime → Run All** (or Ctrl+F9)
 3. Scroll to the last cell and update your details:
    - Category: `2` (EB-2)
